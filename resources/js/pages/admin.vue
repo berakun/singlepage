@@ -1,5 +1,5 @@
 <template>
     <h1>
-        Laravel 9 vite with vue 3
+        Masuk admin
     </h1>
 </template>
